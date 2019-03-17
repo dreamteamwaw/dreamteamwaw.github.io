@@ -87,7 +87,9 @@ footer {
 #overview h3,
 #detail h3, #video h3,
 #register h3,
-#venue h3,
+#students h3,
+#career h3,
+#employer h3,
 #contact h3 {
     padding-bottom: 12px;
 }
@@ -523,9 +525,9 @@ footer {
 
 
 /*---------------------------------------
-   Venue section              
+   Students section              
 -----------------------------------------*/
-#venue {
+#students {
     background: url('../images/venue-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
@@ -533,11 +535,42 @@ footer {
     padding-bottom: 7rem;
 }
 
-#venue p {
+#students p {
   padding-top: 12px;
   padding-bottom: 18px;
 }
 
+/*---------------------------------------
+   Career section              
+-----------------------------------------*/
+#career {
+    background: url('../images/career.jpg') 50% 0 repeat-y fixed;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+#career p {
+  padding-top: 12px;
+  padding-bottom: 18px;
+}
+
+/*---------------------------------------
+   Employer section              
+-----------------------------------------*/
+#employer {
+    background: url('../images/employer.png') 50% 0 repeat-y fixed;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+#employer p {
+  padding-top: 12px;
+  padding-bottom: 18px;
+}
 
 
 /*---------------------------------------

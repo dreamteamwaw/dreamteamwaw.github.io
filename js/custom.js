@@ -39,7 +39,9 @@ $(document).ready(function() {
     $('#program').parallax("100%", 0.2);
     $('#register').parallax("100%", 0.1);
     $('#faq').parallax("100%", 0.3);
-    $('#venue').parallax("100%", 0.1);
+    $('#students').parallax("100%", 0.1);
+	$('#career').parallax("100%", 0.1);
+	$('#employer').parallax("100%", 0.1);
     $('#sponsors').parallax("100%", 0.3);
     $('#contact').parallax("100%", 0.2);
 
